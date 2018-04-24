@@ -1,6 +1,7 @@
 # CS223_Apr18_03
 Software Engineering Project (CS223)
-Food Court Transaction
+
+                                               Food Court Transaction
 
                                           Steps to install and run project:
 
