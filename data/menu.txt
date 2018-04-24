@@ -9,7 +9,7 @@ cheese 0 123 3
 chips 1 123 3
 dal 0 12 3
 chole 0 123 3
-Dosa 1 10 3
+dosa 1 10 3
 milk 0 10 3
 choclate 0 100 3
 samosa 1 10 3
